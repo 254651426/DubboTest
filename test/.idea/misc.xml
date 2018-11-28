@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="E:/学习视频/咕泡学院视频/mic老师源码/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/2018/20180621-分布式服务治理Dubbo配置级源码分析/dubbo-server/pom.xml" />
+        <option value="E:/学习视频/咕泡学院视频/mic老师源码/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/2018/20180621-分布式服务治理Dubbo配置级源码分析/dubbo-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

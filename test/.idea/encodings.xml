@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-server" charset="UTF-8" />
+    <file url="file://E:/学习视频/咕泡学院视频/mic老师源码/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/2018/20180621-分布式服务治理Dubbo配置级源码分析/dubbo-client" charset="UTF-8" />
+    <file url="file://E:/学习视频/咕泡学院视频/mic老师源码/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/2018/20180621-分布式服务治理Dubbo配置级源码分析/dubbo-server" charset="UTF-8" />
+    <file url="file://E:/学习视频/咕泡学院视频/mic老师源码/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/2018/20180621-分布式服务治理Dubbo配置级源码分析/dubbo-server/server-api" charset="UTF-8" />
+    <file url="file://E:/学习视频/咕泡学院视频/mic老师源码/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/mic-vip-master-47edd16159c3a8e393dd492127d1f6894e98c0c3/2018/20180621-分布式服务治理Dubbo配置级源码分析/dubbo-server/server-provider" charset="UTF-8" />
+  </component>
+</project>
